@@ -1,11 +1,11 @@
 {
-    "name": "untitled1",
-    "short_name": "untitled1",
+    "name": "Jigar Patel | AI Engineer",
+    "short_name": "Jigar Patel",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0A0E17",
+    "theme_color": "#00E5FF",
+    "description": "Jigar Patel - Senior AI Engineer & Flutter Developer. AI projects, 9+ years experience, 20+ production apps.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
